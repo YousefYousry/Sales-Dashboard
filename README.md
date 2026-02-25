@@ -1,6 +1,6 @@
-# Sales Dashboard - Excel Project
+# Sales Dashboard - Power BI Project
 
-This project is my final Excel project as part of the Digital Egypt Pioneers Initiative (DEPI) training.
+This project is my final Power BI project as part of the Digital Egypt Pioneers Initiative (DEPI) training.
 
 The dashboard analyzes sales data and transforms raw datasets into interactive insights that help understand business performance.
 
